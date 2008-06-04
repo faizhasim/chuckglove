@@ -19,4 +19,4 @@
 
 = Useful Outside Links =
 
- # [http://www.entre.canterbury.ac.nz/ Entré]
+ # [http://www.entre.canterbury.ac.nz/ Entré] ([http://chuckglove.googlecode.com/svn/trunk/Venture%20Summary.pdf PDF])
