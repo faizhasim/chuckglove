@@ -1,0 +1,22 @@
+#summary Main Menu for the project
+
+= Summary =
+
+*Chuck Glove* the idea that combines RFID technology and haptic sensing technology together, integrating them into a novel solution that would assist the visually impaired to locate and identify various objects within their home. The device is voice operated with a straightforward user interface and is powered by a rechargeable Li-ion battery. It is envisioned that the CHUCK GLOVE would help assist the visually impaired in their day-to-day activities, which would profoundly help them to be more self-reliant and self-confident. 
+
+
+= Project Pages =
+
+[Venture Summary (submitted to Kim) VentureSummary]
+
+= Member Pages = 
+
+ # [Mohd Faiz Hasim faiz]
+ # [Mohamad Aiman Mohamad Sabri aiman]
+ # [hana]
+ # [bob]
+
+
+= Useful Outside Links =
+
+ # [Entré http://www.entre.canterbury.ac.nz/]
