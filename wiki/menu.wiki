@@ -7,11 +7,11 @@
 
 = Project Pages =
 
-[Venture Summary (submitted to Kim) VentureSummary]
+[VentureSummary Venture Summary (submitted to Kim)]
 
 = Member Pages = 
 
- # [Mohd Faiz Hasim faiz]
+ # [faiz Mohd Faiz Hasim]
  # [Mohamad Aiman Mohamad Sabri aiman]
  # [hana]
  # [bob]
