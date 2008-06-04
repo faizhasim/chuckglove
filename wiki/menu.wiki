@@ -7,7 +7,7 @@
 
 = Project Pages =
 
-[VentureSummary Venture Summary (submitted to Kim)]
+[VentureSummary Venture Summary (submitted to Kim)] ([http://chuckglove.googlecode.com/svn/trunk/Venture%20Summary.pdf PDF])
 
 = Member Pages = 
 
@@ -19,4 +19,4 @@
 
 = Useful Outside Links =
 
- # [http://www.entre.canterbury.ac.nz/ Entré] ([http://chuckglove.googlecode.com/svn/trunk/Venture%20Summary.pdf PDF])
+ # [http://www.entre.canterbury.ac.nz/ Entré]
