@@ -1,0 +1,21 @@
+The CHUCK GLOVE is aimed at the blind and the visually impaired population. It is estimated that there are at least 80,000 New Zealanders1, or about 1.88% of the New Zealand population2, who are blind or who have sight limitations that can’t be corrected with spectacles or contact lenses. The number Royal New Zealand Foundation of the Blind (RNZFB) 3 members currently accounts for 15% (approximately 11,700) of the blind or visually impaired New Zealanders. Due to its reasonable sampling size, we have decided that it is justifiable to assume that the statistics obtained from RNZFB can be used to roughly estimate the segmentation for the blind or visually impaired population of New Zealand, as follows.
+
+http://chuckglove.googlecode.com/files/Untitled1.png
+=====Fig 1.0=====
+
+http://chuckglove.googlecode.com/files/Untitled2.png
+=====Fig 1.1=====
+
+We have yet to find a product similar in form factor and cost of the CHUCK GLOVE. An existing alternative for blind people or visually impaired individuals to go about in their daily indoor activities is to use a trained guide dog. One of the profound advantages of using a guide dog is its ability to provide a sense of companionship that is obviously absent in a circuit board. On the other hand, it takes at least 18 months to obtain a fully trained guide dog and the cost to train them is well within NZ$22,500 per dog5. Apart from training costs, cost will also be incurred on the owner in the form of dog food, dog care products, and so forth. The CHUCK GLOVE, aimed to be sold at NZ$300 per unit, would prove to be a more economical of the two as well as being less time-laborious. It is also easy to use requiring about three to five hours of training.
+
+Each potential customer would only need to buy one CHUCK GLOVE. We have decided to use an “application factor” of about 10% that represents the percentage of the New Zealand population that would use the CHUCK GLOVE in other applications such as warehouse inventory updating and community library book management. “Potential factor” represents the percentage of the population that would even consider buying the CHUCK glove, which is optimistically estimated to be 50%. We have decided to narrow down the potential market to those who are blind or visually impaired, living alone, and of working age. This constitutes to 12.7% of the blind and visually impaired population, as shown in Fig. 1.1. The estimated total market demand is therefore,
+
+ Potential buyers = NZ pop. x (blind people + application factor) x potential factor x market segment
+                   = 4.263 million x 11.88% x 50% x 12.7%
+                   = 32,159
+
+ Total market demand 	= potential buyers x quantity of purchase x price per unit
+ = 32,159 x 1 x NZ$300
+ = NZ$9.65 million
+
+The future market demand for the CHUCK GLOVE is ascertained by assuming that the early majority, late majority, and laggards 34%, 34% and 5%-20% of the total market demand. It is estimated that we would achieve 100% of the potential market by the end of two to three years. Once this target is achieved, we plan to export the CHUCK GLOVE to the world market.
