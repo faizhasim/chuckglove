@@ -1,0 +1,7 @@
+#summary Mohd Faiz Hasim - Personal Page
+
+=== 4 Jun ===
+* Setup Wiki using Google Code.
+* Transfer Venture Summary to [VentureSummary Google Code's Wiki]
+* To-dos
+ # Manage Wiki and Svn for group members, perhaps make some sort of simple tutorial.
