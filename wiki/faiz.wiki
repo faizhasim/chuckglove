@@ -5,4 +5,5 @@
   * Transfer Venture Summary to [VentureSummary Google Code's Wiki]
   * To-dos
     # Manage Wiki and Svn for group members, perhaps make some sort of simple tutorial.
+    # Put all the milestones in Wiki
 ----
