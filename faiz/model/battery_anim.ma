@@ -1,6 +1,6 @@
 //Maya ASCII 8.5 scene
 //Name: battery_anim.ma
-//Last modified: Thu, 4 Sep 2008 5:02:16 AM
+//Last modified: Thu, 4 Sep 2008 5:06:56 AM
 //Codeset: UTF-8
 requires maya "8.5";
 requires "Mayatomr" "8.5.1.3m - 3.5.6.7 ";
@@ -10943,7 +10943,7 @@ createNode animCurveTU -n "tagbox_scaleZ";
 	setAttr ".wgt" no;
 	setAttr -s 2 ".ktv[0:1]"  1 0.1 48 0.1;
 select -ne :time1;
-	setAttr ".o" 48;
+	setAttr ".o" 42;
 select -ne :renderPartition;
 	setAttr -s 8 ".st";
 select -ne :renderGlobalsList1;
