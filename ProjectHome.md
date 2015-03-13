@@ -1,0 +1,1 @@
+A full details business plan and strategy for market penetration of intelligent glove that will help target group to locate objects tagged with RFID label. The glove will be able to direct the target user (primarily blinds) to the objects by introducing directional vibrations to different parts of hand.
